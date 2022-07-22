@@ -6,6 +6,7 @@ file: /courses/15-677j-urban-labor-markets-and-employment-policy-spring-2005/aae
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: notes8.pdf
 uid: aaedb792-aff3-7314-9de6-b21e1942fb80
 ---
 This file explains the topic of union attempts to improve jobs for workers, and community-driven attempts to improve the job market.
-
