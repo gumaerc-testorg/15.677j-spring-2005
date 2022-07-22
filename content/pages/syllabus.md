@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This syllabus provides course overview and information on course requirements,
+  grading, and the readings for the course.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 4498be12-0602-bd74-2170-5093c0e5d3b3
 ---

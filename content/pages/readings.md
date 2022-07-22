@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This readings section provides information on assigned readings corresponding
+  to the lecture topics of the course.
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: b2b3ff35-f5b5-b234-e196-8613bf433aed
 ---
@@ -236,7 +241,7 @@ Fitzgerald, J., and V. Carlson. "Ladders To A Better Life." _The American Prospe
 
 Giloth, R., ed. "Introduction," "Poppe, Shawn, and Martison," "Kazis," "Carnevale," and "Berry." Chapters 1, 2, 3, 7, and 8 in _Workforce Intermediaries In the Twenty-First Century_. Philadelphia, PA: Temple University Press, 2003. ISBN: 1592132049.
 
-Clark, P., and S. Dawson. _Jobs and the Urban Poor._ Aspen, CO: Aspen Institute, 2005, pp. 1-33. ([PDF](http://www.aspeninstitute.org/sites/default/files/content/docs/pubs/JobsUrbanPoor.pdf))#
+Clark, P., and S. Dawson. _Jobs and the Urban Poor._ Aspen, CO: Aspen Institute, 2005, pp. 1-33. ([PDF](http://www.aspeninstitute.org/sites/default/files/content/docs/pubs/JobsUrbanPoor.pdf)){{< sup "#" >}}
 
 Conway, M., and S. Loker. "Garment Industry Development Corporation: A Case Study of a Sectoral Employment Development Approach." Working Paper. Aspen, CO: [Aspen Institute](http://www.aspeninstitute.org/), 1999.
 
