@@ -4,6 +4,7 @@ description: This file explains internal labor markets (ILM), restructuring i.e 
   ILM's change, how High Performance Work systems (HPWs) impact middle managers and
   contingent workers, and the impact of these changes on low wage workers.
 file: /courses/15-677j-urban-labor-markets-and-employment-policy-spring-2005/49e5c11d4f1019d2e9db92437a7344e8_notes4.pdf
+file_size: 49196
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
